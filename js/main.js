@@ -1,5 +1,5 @@
 var marker = new ol.Feature({
-    geometry: new ol.geom.Point(ol.proj.fromLonLat([16.88181, 41.10937]))
+    geometry: new ol.geom.Point(ol.proj.fromLonLat([16.87886, 41.10867]))
 });
 
 var markerIcon = new ol.style.Style({
@@ -26,7 +26,7 @@ var map = new ol.Map({
         })
     ],
     view: new ol.View({
-        center: ol.proj.fromLonLat([16.880042, 41.109263]),
+        center: ol.proj.fromLonLat([16.87886, 41.10867]),
         zoom: 14
     })
 });
