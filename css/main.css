@@ -6,7 +6,7 @@ body {
 
 header {
     background-color: #DBDBDB;
-    padding: 10px;
+    padding: 40px;
     border-bottom: solid 10px #444;
 }
 
@@ -17,7 +17,6 @@ header .page-header {
 #logo {
     width: 100px;
     float: left;
-    margin-top: 15px;
     margin-right: 30px;
     margin-bottom: 15px;
 }
