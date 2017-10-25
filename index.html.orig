@@ -38,27 +38,23 @@
             <div class="col-md-12">
                 <p>
                     <ul>
-                    <li><!--09:00-09:20 -->Introduzione e benvenuto al Linux Day 2017! (Lo staff del Linux Day) <!--, <i
-                            class="fa fa-picture-o"></i> <a href="slides/ale/intro_ld16.pdf">slides</a>)-->
+                    <li>Introduzione e benvenuto al Linux Day 2017! (Lo staff del Linux Day) <!--, <i
+                            class="fa fa-picture-o"></i> <a href="LINK SLIDE INTRODUZIONE">slides</a>)-->
                     </li>
-                    <li><!--09:20-10:00 <a href="#boccuzzi">-->Simone Boccuzzi<!--</a>-->, Rete della Conoscenza: "Alla ricerca di una rete libera" <!--(<i class="fa fa-picture-o"></i> <a href="LINK SLIDE BOCCUZZI">slides</a>)-->
+                    <li><!--<a href="#boccuzzi">-->Simone Boccuzzi<!--</a>-->, Rete della Conoscenza: "Alla ricerca di una rete libera" <!--(<i class="fa fa-picture-o"></i> <a href="LINK SLIDE BOCCUZZI">slides</a>)-->
                     </li>
-                    <li><!--10:00-10:40 <a href="#lovergine">-->Francesco Lovergine<!--</a>-->, CNR: "Privacy e sicurezza nel mondo del Cloud"<!--<i class="fa fa-picture-o"></i>
+                    <li><!--<a href="#lovergine">-->Francesco Lovergine<!--</a>-->, CNR: "Privacy e sicurezza nel mondo del Cloud"<!--<i class="fa fa-picture-o"></i>
                         <a href="LINK SLIDE LOVERGINE">slides</a>)-->
                     </li>
-                    <li><!--10:40-11:10 -->Pausa, merenda</li>
-                    <li><!--11:10-11:50 <a href="#trisciuzzi">-->Carlo Alberto Trisciuzzi<!--</a>-->: "Trasformare una singleboard in un NAS" <!--<i
+                    <li>Pausa, merenda</li>
+                    <li><!--<a href="#trisciuzzi">-->Carlo Alberto Trisciuzzi<!--</a>-->: "Trasformare una singleboard in un NAS" <!--<i
                             class="fa fa-picture-o"></i> <a href="LINK SLIDE TRISCIUZZI">slides</a>)-->
                     </li>
-                    <li><!--11:50-12:30 <a href="#lorusso">-->Carlo Lorusso: "Sicurezza: Tecniche di difesa proattiva e Offensive Security" <!--<i
+                    <li><!--<a href="#lorusso">-->Carlo Lorusso: "Sicurezza: Tecniche di difesa proattiva e Offensive Security" <!--<i
                             class="fa fa-picture-o"></i> <a href="LINK SLIDE LORUSSO">slides</a>)--></li>
                 </ul>
-                <p>Durante la giornata sarà possibile provare e installare Linux (in caso di installazione &egrave;
-                    consigliato fare prima il backup dei vostri dati)
-                </p>
                 <p>
-                    L'inizio dei talk &egrave; fissato per le 9:00. Gli orari di inizio e fine potrebbero subire delle
-                    variazioni.
+                    L'inizio dei talk &egrave; fissato per le 9:00 e la fine &egrave; fissata per le 13:00. I talk dureranno intorno ai 40 minuti. Gli orari di inizio e fine potrebbero subire delle variazioni.
                 </p>
             </div>
         </div>
@@ -87,53 +83,42 @@
         <h2>Chi</h2>
         <div class="row staff">
             <div class="col-md-2 col-md-offset-2">
-                <img class="staff-img" src="images/staff/alessandro.png" alt="Alessandro Natilla">
+                <img class="staff-img" src="images/staff/dimaggio.png" alt="Michele Dimaggio">
             </div>
             <div class="col-md-8">
-                <p id="alessandro"><i class="fa fa-user"></i> <b>Alessandro Natilla</b></p>
-                <p><i class="fa fa-laptop"></i> Software Developer @ THESIS s.r.l. </p>
+                <p id="dimaggio"><i class="fa fa-user"></i> <b>Michele Dimaggio</b></p>
+                <p><i class="fa fa-laptop"></i> Freelance Developer </p>
+                <p><i class="fa fa-tags"></i> Organizzatore, Moderatore</p>
+                <p><i class="fa fa-linux"></i> Ubuntu, Kali Linux</p>
+                </p>
+                <p><a href="https://www.facebook.com/Mike238"><i class="fa fa-facebook"></i></a>
+                    &nbsp;<a href="https://github.com/DjMike238/"><i class="fa fa-github"></i></a></p>
+            </div>
+        </div>
+        <div class="row staff">
+            <div class="col-md-2 col-md-offset-2">
+                <img class="staff-img" src="images/staff/brunetti.jpg" alt="Anthony Brunetti">
+            </div>
+            <div class="col-md-8">
+                <p id="brunetti"><i class="fa fa-user"></i> <b>Anthony Brunetti</b></p>
+                <p><i class="fa fa-laptop"></i> Rappresentante degli Studenti @ CdL Informatica - Link Scienze</p>
+                <p><i class="fa fa-tags"></i> Organizzatore, Moderatore</p>
+                <p><i class="fa fa-linux"></i> Ubuntu, Debian, Arch Linux, Kali Linux</p>
+				<p><a href="https://www.facebook.com/anthony.brunetti.16"><i class="fa fa-facebook"></i></a>
+                    &nbsp;<a href="https://github.com/anthonybrunetti95/"><i class="fa fa-github"></i></a></p>
+            </div>
+        </div>
+
+        <div class="row staff">
+            <div class="col-md-2 col-md-offset-2">
+                <img class="staff-img" src="images/staff/boccuzzi.jpg" alt="Simone Boccuzzi">
+            </div>
+            <div class="col-md-8">
+                <p id="boccuzzi"><i class="fa fa-user"></i> <b>Simone Boccuzzi</b></p>
+                <p><i class="fa fa-laptop"></i> Rappresentante degli Studenti @ CdL Informatica - Link Scienze</p>
                 <p><i class="fa fa-tags"></i> Organizzatore, Speaker</p>
-                <p><i class="fa fa-linux"></i> Arch Linux, Debian</p>
-                <p><i class="fa fa-globe"></i> <a href="http://www.alessandronatilla.it/">www.alessandronatilla.it</a>
-                </p>
-                <p><a href="https://plus.google.com/u/0/108401072939349782965/posts"><i
-                        class="fa fa-google-plus"></i></a>
-                    &nbsp;<a href="https://www.linkedin.com/pub/alessandro-natilla/5b/91b/1a3"><i
-                            class="fa fa-linkedin"></i></a>
-                    &nbsp;<a href="https://github.com/anatilla/"><i class="fa fa-github"></i></a></p>
-            </div>
-        </div>
-
-        <div class="row staff">
-            <div class="col-md-2 col-md-offset-2">
-                <img class="staff-img" src="images/staff/dinoia.jpg" alt="Tommaso Di Noia">
-            </div>
-            <div class="col-md-8">
-                <p id="tommaso"><i class="fa fa-user"></i> <b>Tommaso Di Noia</b></p>
-                <p><i class="fa fa-laptop"></i> Associate Professor @ Polytechnic University of Bari</p>
-                <p><i class="fa fa-tags"></i> Organizzatore</p>
-                <p><i class="fa fa-linux"></i> Ubuntu, Debian</p>
-                <p><i class="fa fa-globe"></i> <a href="http://sisinflab.poliba.it/dinoia/">http://sisinflab.poliba.it/dinoia/</a>
-                </p>
-                <p><a href="https://www.linkedin.com/in/tommasodinoia"><i class="fa fa-linkedin"></i></a></p>
-            </div>
-        </div>
-
-        <div class="row staff">
-            <div class="col-md-2 col-md-offset-2">
-                <img class="staff-img" src="images/staff/pp.jpg" alt="Pierpaolo Basile">
-            </div>
-            <div class="col-md-8">
-                <p id="pierpaolo"><i class="fa fa-user"></i> <b>Pierpaolo Basile</b></p>
-                <p><i class="fa fa-laptop"></i> Assistant Professor @ Department of Computer Science - University of
-                    Bari "Aldo Moro"</p>
-                <p><i class="fa fa-tags"></i> Organizzatore </p>
-                <p><i class="fa fa-linux"></i> Ubuntu, Debian</p>
-                <p><i class="fa fa-globe"></i> <a href="http://www.di.uniba.it/~swap/index.php?n=Membri.Basile">di.uniba.it</a>
-                </p>
-                <p><a href="https://www.linkedin.com/in/pierpaolobasile"><i class="fa fa-linkedin"></i></a>
-                    &nbsp;<a href="https://github.com/pippokill"><i class="fa fa-github"></i></a>
-                    &nbsp;<a href="https://twitter.com/basilepp"><i class="fa fa-twitter"></i></a></p>
+                <p><i class="fa fa-linux"></i> Mint, Debian, Kali Linux</p>
+                <p><a href="https://www.facebook.com/simone.boccuzzi.9"><i class="fa fa-facebook"></i></a>
             </div>
         </div>
 
