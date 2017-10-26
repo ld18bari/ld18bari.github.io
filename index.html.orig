@@ -88,7 +88,8 @@
             <div class="col-md-8">
                 <p id="dimaggio"><i class="fa fa-user"></i> <b> Michele Dimaggio </b>
 				<a href="https://www.facebook.com/Mike238"><i class="fa fa-facebook"></i></a>
-                    &nbsp;<a href="https://github.com/DjMike238/"><i class="fa fa-github"></i></a></p>
+                    &nbsp;<a href="https://github.com/DjMike238/"><i class="fa fa-github"></i></a>
+				</p>
                 <p><i class="fa fa-laptop"></i> Freelance Developer</p>
                 <p><i class="fa fa-tags"></i> Organizzatore, Moderatore</p>
                 <p><i class="fa fa-linux"></i> Ubuntu, Kali Linux</p>
@@ -100,9 +101,10 @@
                 <img class="staff-img" src="images/staff/brunetti.jpg" alt="Anthony Brunetti">
             </div>
             <div class="col-md-8">
-                <p id="brunetti"><i class="fa fa-user"></i> <b> Anthony Brunetti </b></p>
-				<p><a href="https://www.facebook.com/anthony.brunetti.16"><i class="fa fa-facebook"></i></a>
-                    &nbsp;<a href="https://github.com/anthonybrunetti95/"><i class="fa fa-github"></i></a></p>
+                <p id="brunetti"><i class="fa fa-user"></i> <b> Anthony Brunetti </b>
+				<a href="https://www.facebook.com/anthony.brunetti.16"><i class="fa fa-facebook"></i></a>
+                    &nbsp;<a href="https://github.com/anthonybrunetti95/"><i class="fa fa-github"></i></a>
+				</p>
                 <p><i class="fa fa-laptop"></i> Rappresentante degli Studenti @ CdL Informatica - Link Scienze</p>
                 <p><i class="fa fa-tags"></i> Organizzatore, Moderatore</p>
                 <p><i class="fa fa-linux"></i> Ubuntu, Debian, Arch Linux, Kali Linux</p>
@@ -115,8 +117,9 @@
                 <img class="staff-img" src="images/staff/boccuzzi.jpg" alt="Simone Boccuzzi">
             </div>
             <div class="col-md-8">
-                <p id="boccuzzi"><i class="fa fa-user"></i> <b> Simone Boccuzzi </b></p>
-                <p><a href="https://www.facebook.com/simone.boccuzzi.9"><i class="fa fa-facebook"></i></a>
+                <p id="boccuzzi"><i class="fa fa-user"></i> <b> Simone Boccuzzi </b>
+                <a href="https://www.facebook.com/simone.boccuzzi.9"><i class="fa fa-facebook"></i></a>
+				</p>
                 <p><i class="fa fa-laptop"></i> Rappresentante degli Studenti @ CdL Informatica - Link Scienze</p>
                 <p><i class="fa fa-tags"></i> Organizzatore, Speaker</p>
                 <p><i class="fa fa-linux"></i> Mint, Debian, Kali Linux</p>
@@ -133,7 +136,8 @@
 				<!-- Inserire qui sotto i vari contatti -->
 				<a href="https://www.linkedin.com/in/andreascarpino"><i class="fa fa-linkedin"></i></a>
                     &nbsp;<a href="https://github.com/ilpianista/"><i class="fa fa-github"></i></a>
-                    &nbsp;<a href="https://twitter.com/ilpianista_"><i class="fa fa-twitter"></i></a></p>
+                    &nbsp;<a href="https://twitter.com/ilpianista_"><i class="fa fa-twitter"></i></a>
+				</p>
                 <p><i class="fa fa-laptop"></i> Debian Official Developer, DebianGis Developer</p>
                 <p><i class="fa fa-tags"></i> Speaker</p>
                 <p><i class="fa fa-linux"></i> <!-- DISTRO LOVERGINE --></p>
@@ -145,8 +149,9 @@
                 <img class="staff-img" src="images/staff/trisciuzzi.jpg" alt="Carlo Alberto Trisciuzzi">
             </div>
             <div class="col-md-8">
-                <p id="trisciuzzi"><i class="fa fa-user"></i> <b> Carlo Alberto Trisciuzzi </b></p>
-                <p><a href="https://www.facebook.com/lupo.laureato"><i class="fa fa-facebook"></i></a></p>
+                <p id="trisciuzzi"><i class="fa fa-user"></i> <b> Carlo Alberto Trisciuzzi </b>
+                <a href="https://www.facebook.com/lupo.laureato"><i class="fa fa-facebook"></i></a>
+				</p>
                 <p><i class="fa fa-laptop"></i> Freelance Software Developer, Rappresentante degli Studenti @ CdL Informatica - Link Scienze</p>
                 <p><i class="fa fa-tags"></i> Organizzatore, Speaker</p>
                 <p><i class="fa fa-linux"></i> Mint KDE, Lubuntu, Sabayon</p>
@@ -159,8 +164,9 @@
             </div>
             <div class="col-md-8">
 				<!-- SEZIONE DA CONTROLLARE E CORREGGERE -->
-                <p id="lorusso"><i class="fa fa-user"></i> <b> Carlo Lorusso </b></p>
-				<p><a href="https://www.facebook.com/lorussocarlo"><i class="fa fa-facebook"></i></a></p>
+                <p id="lorusso"><i class="fa fa-user"></i> <b> Carlo Lorusso </b>
+				<a href="https://www.facebook.com/lorussocarlo"><i class="fa fa-facebook"></i></a>
+				</p>
                 <p><i class="fa fa-laptop"></i>  Freelance Software Developer, Penetration Tester</p>
                 <p><i class="fa fa-tags"></i> Organizzatore, Speaker</p>
                 <p><i class="fa fa-linux"></i> Ubuntu, Debian, Kali Linux</p>
@@ -173,9 +179,10 @@
             </div>
             <div class="col-md-8">
 				<!-- SEZIONE DA CONTROLLARE E CORREGGERE -->
-                <p id="miilella"><i class="fa fa-user"></i> <b>Nicolas Milella</b></p>
+                <p id="miilella"><i class="fa fa-user"></i> <b> Nicolas Milella </b>
 				<!-- Inserire qui sotto i vari contatti -->
-				<p><a href="https://www.facebook.com/nicolas.milella"><i class="fa fa-facebook"></i></a>
+				<a href="https://www.facebook.com/nicolas.milella"><i class="fa fa-facebook"></i></a>
+				</p>
                 <p><i class="fa fa-laptop"></i> <!-- OCCUPAZIONE MILELLA --> </p>
                 <p><i class="fa fa-tags"></i> Organizzazione</p>
                 <p><i class="fa fa-linux"></i> <!-- DISTRO MILELLA --></p>
@@ -188,8 +195,9 @@
             </div>
             <div class="col-md-8">
 				<!-- SEZIONE DA CONTROLLARE E CORREGGERE -->
-                <p id="scarano"><i class="fa fa-user"></i> <b>Davide Scarano</b></p>
+                <p id="scarano"><i class="fa fa-user"></i> <b> Davide Scarano </b>
 				<!-- Inserire qui sotto i vari contatti -->
+				</p>
                 <p><i class="fa fa-laptop"></i> <!-- OCCUPAZIONE SCARANO --> </p>
                 <p><i class="fa fa-tags"></i> Organizzatore </p>
                 <p><i class="fa fa-linux"></i> <!-- DISTRO SCARANO --> </p>
