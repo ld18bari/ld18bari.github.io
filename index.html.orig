@@ -83,7 +83,7 @@
         <h2>Chi</h2>
         <div class="row staff">
             <div class="col-md-2 col-md-offset-2">
-                <img class="staff-img" src="images/staff/dimaggio.png" alt="Michele Dimaggio">
+                <img class="staff-img" src="images/staff/dimaggio.jpg" alt="Michele Dimaggio">
             </div>
             <div class="col-md-8">
                 <p id="dimaggio"><i class="fa fa-user"></i> <b> Michele Dimaggio </b>
