@@ -165,10 +165,10 @@
             <div class="col-md-8">
 				<!-- SEZIONE DA CONTROLLARE E CORREGGERE -->
                 <p id="lorusso"><i class="fa fa-user"></i> <b> Carlo Lorusso </b></p>
-				<!-- Inserire qui sotto i vari contatti -->
-                <p><i class="fa fa-laptop"></i> <!-- OCCUPAZIONE LORUSSO --></p>
+				<p><a href="https://www.facebook.com/lorussocarlo"><i class="fa fa-facebook"></i></a></p>
+                <p><i class="fa fa-laptop"></i>  Freelance Software Developer, Penetration Tester</p>
                 <p><i class="fa fa-tags"></i> Organizzatore, Speaker</p>
-                <p><i class="fa fa-linux"></i> <!-- DISTRO LORUSSO --></p>
+                <p><i class="fa fa-linux"></i> Ubuntu, Debian, Kali Linux</p>
             </div>
         </div>
 
