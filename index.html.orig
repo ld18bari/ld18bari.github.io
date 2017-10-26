@@ -86,13 +86,14 @@
                 <img class="staff-img" src="images/staff/dimaggio.png" alt="Michele Dimaggio">
             </div>
             <div class="col-md-8">
-                <p id="dimaggio"><i class="fa fa-user"></i> <b>Michele Dimaggio</b></p>
-                <p><i class="fa fa-laptop"></i> Freelance Developer </p>
+                <p id="dimaggio"><i class="fa fa-user"></i> <b> Michele Dimaggio </b>
+				<!-- Inserire qui sotto i vari contatti -->
+				<a href="https://www.facebook.com/Mike238"><i class="fa fa-facebook"></i></a>
+                    &nbsp;<a href="https://github.com/DjMike238/"><i class="fa fa-github"></i></a></p>
+                <p><i class="fa fa-laptop"></i> Freelance Developer</p>
                 <p><i class="fa fa-tags"></i> Organizzatore, Moderatore</p>
                 <p><i class="fa fa-linux"></i> Ubuntu, Kali Linux</p>
                 </p>
-                <p><a href="https://www.facebook.com/Mike238"><i class="fa fa-facebook"></i></a>
-                    &nbsp;<a href="https://github.com/DjMike238/"><i class="fa fa-github"></i></a></p>
             </div>
         </div>
         <div class="row staff">
@@ -100,12 +101,14 @@
                 <img class="staff-img" src="images/staff/brunetti.jpg" alt="Anthony Brunetti">
             </div>
             <div class="col-md-8">
-                <p id="brunetti"><i class="fa fa-user"></i> <b>Anthony Brunetti</b></p>
+                <p id="brunetti"><i class="fa fa-user"></i> <b> Anthony Brunetti </b></p>
+				<!-- Inserire qui sotto i vari contatti -->
+				<p><a href="https://www.facebook.com/anthony.brunetti.16"><i class="fa fa-facebook"></i></a>
+                    &nbsp;<a href="https://github.com/anthonybrunetti95/"><i class="fa fa-github"></i></a></p>
                 <p><i class="fa fa-laptop"></i> Rappresentante degli Studenti @ CdL Informatica - Link Scienze</p>
                 <p><i class="fa fa-tags"></i> Organizzatore, Moderatore</p>
                 <p><i class="fa fa-linux"></i> Ubuntu, Debian, Arch Linux, Kali Linux</p>
-				<p><a href="https://www.facebook.com/anthony.brunetti.16"><i class="fa fa-facebook"></i></a>
-                    &nbsp;<a href="https://github.com/anthonybrunetti95/"><i class="fa fa-github"></i></a></p>
+
             </div>
         </div>
 
@@ -114,11 +117,12 @@
                 <img class="staff-img" src="images/staff/boccuzzi.jpg" alt="Simone Boccuzzi">
             </div>
             <div class="col-md-8">
-                <p id="boccuzzi"><i class="fa fa-user"></i> <b>Simone Boccuzzi</b></p>
+                <p id="boccuzzi"><i class="fa fa-user"></i> <b> Simone Boccuzzi </b></p>
+				<!-- Inserire qui sotto i vari contatti -->
+                <p><a href="https://www.facebook.com/simone.boccuzzi.9"><i class="fa fa-facebook"></i></a>
                 <p><i class="fa fa-laptop"></i> Rappresentante degli Studenti @ CdL Informatica - Link Scienze</p>
                 <p><i class="fa fa-tags"></i> Organizzatore, Speaker</p>
                 <p><i class="fa fa-linux"></i> Mint, Debian, Kali Linux</p>
-                <p><a href="https://www.facebook.com/simone.boccuzzi.9"><i class="fa fa-facebook"></i></a>
             </div>
         </div>
 
@@ -128,14 +132,15 @@
             </div>
             <div class="col-md-8">
 				<!-- SEZIONE DA CONTROLLARE E CORREGGERE -->
-                <p id="lovergine"><i class="fa fa-user"></i> <b>Francesco Lovergine</b></p>
+                <p id="lovergine"><i class="fa fa-user"></i> <b> Francesco Lovergine </b>
+				<!-- Inserire qui sotto i vari contatti -->
+				<a href="https://www.linkedin.com/in/andreascarpino"><i class="fa fa-linkedin"></i></a>
+                    &nbsp;<a href="https://github.com/ilpianista/"><i class="fa fa-github"></i></a>
+                    &nbsp;<a href="https://twitter.com/ilpianista_"><i class="fa fa-twitter"></i></a></p>
                 <p><i class="fa fa-laptop"></i> Debian Official Developer, DebianGis Developer</p>
                 <p><i class="fa fa-tags"></i> Speaker</p>
                 <p><i class="fa fa-linux"></i> Arch Linux, Arch Linux ARM</p>
                 <p><i class="fa fa-globe"></i> <a href="https://www.andreascarpino.it/">www.andreascarpino.it</a></p>
-                <p><a href="https://www.linkedin.com/in/andreascarpino"><i class="fa fa-linkedin"></i></a>
-                    &nbsp;<a href="https://github.com/ilpianista/"><i class="fa fa-github"></i></a>
-                    &nbsp;<a href="https://twitter.com/ilpianista_"><i class="fa fa-twitter"></i></a></p>
             </div>
         </div>
 
@@ -144,11 +149,12 @@
                 <img class="staff-img" src="images/staff/trisciuzzi.jpg" alt="Carlo Alberto Trisciuzzi">
             </div>
             <div class="col-md-8">
-                <p id="trisciuzzi"><i class="fa fa-user"></i> <b>Carlo Alberto Trisciuzzi</b></p>
+                <p id="trisciuzzi"><i class="fa fa-user"></i> <b> Carlo Alberto Trisciuzzi </b></p>
+				<!-- Inserire qui sotto i vari contatti -->
+                <p><a href="https://www.facebook.com/lupo.laureato"><i class="fa fa-facebook"></i></a></p>
                 <p><i class="fa fa-laptop"></i> Freelance Software Developer, Rappresentante degli Studenti @ CdL Informatica - Link Scienze</p>
                 <p><i class="fa fa-tags"></i> Organizzatore, Speaker</p>
                 <p><i class="fa fa-linux"></i> Mint KDE, Lubuntu, Sabayon</p>
-                <p><a href="https://www.facebook.com/lupo.laureato"><i class="fa fa-facebook"></i></a></p>
             </div>
         </div>
 
@@ -158,12 +164,12 @@
             </div>
             <div class="col-md-8">
 				<!-- SEZIONE DA CONTROLLARE E CORREGGERE -->
-                <p id="lorusso"><i class="fa fa-user"></i> 	<b>Carlo Lorusso</b></p>
+                <p id="lorusso"><i class="fa fa-user"></i> <b> Carlo Lorusso </b></p>
+				<!-- Inserire qui sotto i vari contatti -->
                 <p><i class="fa fa-laptop"></i> PhD Student @ Department of Computer Science - University of Bari "Aldo
                     Moro"</p>
                 <p><i class="fa fa-tags"></i> Organizzatore, Speaker</p>
                 <p><i class="fa fa-linux"></i> Opensuse</p>
-                <p><a href="https://it.linkedin.com/in/angelo-impedovo"><i class="fa fa-linkedin"></i></a></p>
             </div>
         </div>
 
@@ -174,11 +180,12 @@
             <div class="col-md-8">
 				<!-- SEZIONE DA CONTROLLARE E CORREGGERE -->
                 <p id="miilella"><i class="fa fa-user"></i> <b>Nicolas Milella</b></p>
+				<!-- Inserire qui sotto i vari contatti -->
+				<p><a href="https://www.facebook.com/nicolas.milella"><i class="fa fa-facebook"></i></a>
                 <p><i class="fa fa-laptop"></i> IT Business Intelligence Analyst at Wolters Kluwer, MSc Student @ INF BA
                 </p>
                 <p><i class="fa fa-tags"></i> Speaker</p>
                 <p><i class="fa fa-linux"></i> (K)Ubuntu, CentOS</p>
-                <p><a href="https://www.facebook.com/nicolas.milella"><i class="fa fa-facebook"></i></a>
             </div>
         </div>
 
@@ -189,11 +196,10 @@
             <div class="col-md-8">
 				<!-- SEZIONE DA CONTROLLARE E CORREGGERE -->
                 <p id="scarano"><i class="fa fa-user"></i> <b>Davide Scarano</b></p>
+				<!-- Inserire qui sotto i vari contatti -->
                 <p><i class="fa fa-laptop"></i> Assistant Professor @ Polytechnic University of Bari</p>
                 <p><i class="fa fa-tags"></i> Speaker</p>
                 <p><i class="fa fa-linux"></i> Ubuntu</p>
-                <p><i class="fa fa-globe"></i> <a href="http://c3lab.poliba.it/LDC">http://c3lab.poliba.it/LDC</a></p>
-                <p><a href="https://www.linkedin.com/in/ldecicco"><i class="fa fa-linkedin"></i></a>
                 </p>
             </div>
         </div>
@@ -204,16 +210,16 @@
             </div>
             <div class="col-md-8">
                 <p id="COGNOME"><i class="fa fa-user"></i> <b>NOME COGNOME</b></p>
-                <p><i class="fa fa-laptop"></i> OCCUPAZIONE</p>
-                <p><i class="fa fa-tags"></i> OCCUPAZIONE LD</p>
-                <p><i class="fa fa-linux"></i> DISTRO LINUX UTILIZZATE</p>
-                <p><i class="fa fa-globe"></i> <a href="SITO WEB">SITO WEB</a></p>
-                <p><a href="LINK GOOGLE+"><i class="fa fa-google-plus"></i></a>
+				<p><a href="LINK GOOGLE+"><i class="fa fa-google-plus"></i></a>
 				&nbsp;<p><a href="LINK LINKEDIN"><i class="fa fa-linkedin"></i></a>
 				&nbsp;<p><a href="LINK GITHUB"><i class="fa fa-github"></i></a>
 				&nbsp;<p><a href="LINK TWITTER"><i class="fa fa-twitter"></i></a>
 				&nbsp;<p><a href="LINK FACEBOOK"><i class="fa fa-facebook"></i></a>
                 </p>
+                <p><i class="fa fa-laptop"></i> OCCUPAZIONE</p>
+                <p><i class="fa fa-tags"></i> OCCUPAZIONE LD</p>
+                <p><i class="fa fa-linux"></i> DISTRO LINUX UTILIZZATE</p>
+                <p><i class="fa fa-globe"></i> <a href="SITO WEB">SITO WEB</a></p>
             </div>
         </div>
 -->
