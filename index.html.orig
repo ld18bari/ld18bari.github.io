@@ -41,16 +41,16 @@
                     <li>Introduzione e benvenuto al Linux Day 2017! (Lo staff del Linux Day) <!--, <i
                             class="fa fa-picture-o"></i> <a href="LINK SLIDE INTRODUZIONE">slides</a>)-->
                     </li>
-                    <li><!--<a href="#boccuzzi">-->Simone Boccuzzi<!--</a>-->, Rete della Conoscenza: "Alla ricerca di una rete libera" <!--(<i class="fa fa-picture-o"></i> <a href="LINK SLIDE BOCCUZZI">slides</a>)-->
+                    <li><a href="#boccuzzi">Simone Boccuzzi</a>, Rete della Conoscenza: "Alla ricerca di una rete libera" <!--(<i class="fa fa-picture-o"></i> <a href="LINK SLIDE BOCCUZZI">slides</a>)-->
                     </li>
-                    <li><!--<a href="#lovergine">-->Francesco Lovergine<!--</a>-->, CNR: "Privacy e sicurezza nel mondo del Cloud"<!--<i class="fa fa-picture-o"></i>
+                    <li><a href="#lovergine">Francesco Lovergine</a>, CNR: "Privacy e sicurezza nel mondo del Cloud"<!--<i class="fa fa-picture-o"></i>
                         <a href="LINK SLIDE LOVERGINE">slides</a>)-->
                     </li>
                     <li>Pausa, merenda</li>
-                    <li><!--<a href="#trisciuzzi">-->Carlo Alberto Trisciuzzi<!--</a>-->: "Trasformare una singleboard in un NAS" <!--<i
+                    <li><a href="#trisciuzzi">Carlo Alberto Trisciuzzi</a>: "Trasformare una singleboard in un NAS" <!--<i
                             class="fa fa-picture-o"></i> <a href="LINK SLIDE TRISCIUZZI">slides</a>)-->
                     </li>
-                    <li><!--<a href="#lorusso">-->Carlo Lorusso: "Sicurezza: Tecniche di difesa proattiva e Offensive Security" <!--<i
+                    <li><<a href="#lorusso">-->Carlo Lorusso</a>: "Sicurezza: Tecniche di difesa proattiva e Offensive Security" <!--<i
                             class="fa fa-picture-o"></i> <a href="LINK SLIDE LORUSSO">slides</a>)--></li>
                 </ul>
                 <p>
@@ -124,12 +124,12 @@
 
         <div class="row staff">
             <div class="col-md-2 col-md-offset-2">
-                <img class="staff-img" src="images/staff/andrea.jpg" alt="Andrea Scarpino">
+                <img class="staff-img" src="images/staff/lovergine.jpg" alt="Francesco Lovergine">
             </div>
             <div class="col-md-8">
-                <p id="andrea"><i class="fa fa-user"></i> <b>Andrea Scarpino</b></p>
-                <p><i class="fa fa-laptop"></i> Software Developer involved in Open Source software (KDE, former Arch
-                    Linux dev and more)</p>
+				<!-- SEZIONE DA CONTROLLARE E CORREGGERE -->
+                <p id="lovergine"><i class="fa fa-user"></i> <b>Francesco Lovergine</b></p>
+                <p><i class="fa fa-laptop"></i> Debian Official Developer, DebianGis Developer</p>
                 <p><i class="fa fa-tags"></i> Speaker</p>
                 <p><i class="fa fa-linux"></i> Arch Linux, Arch Linux ARM</p>
                 <p><i class="fa fa-globe"></i> <a href="https://www.andreascarpino.it/">www.andreascarpino.it</a></p>
@@ -141,24 +141,24 @@
 
         <div class="row staff">
             <div class="col-md-2 col-md-offset-2">
-                <img class="staff-img" src="images/staff/gsfb.jpg" alt="Giuseppe Salinaro">
+                <img class="staff-img" src="images/staff/trisciuzzi.jpg" alt="Carlo Alberto Trisciuzzi">
             </div>
             <div class="col-md-8">
-                <p id="giuseppe"><i class="fa fa-user"></i> <b>Giuseppe Salinaro</b></p>
-                <p><i class="fa fa-laptop"></i> Student @ Department of Computer Science - University of Bari "Aldo
-                    Moro"</p>
+                <p id="trisciuzzi"><i class="fa fa-user"></i> <b>Carlo Alberto Trisciuzzi</b></p>
+                <p><i class="fa fa-laptop"></i> Freelance Software Developer, Rappresentante degli Studenti @ CdL Informatica - Link Scienze</p>
                 <p><i class="fa fa-tags"></i> Organizzatore, Speaker</p>
-                <p><i class="fa fa-linux"></i> Opensuse, Debian</p>
-                <p><a href="https://it.linkedin.com/in/giuseppesalinaro"><i class="fa fa-linkedin"></i></a></p>
+                <p><i class="fa fa-linux"></i> Mint KDE, Lubuntu, Sabayon</p>
+                <p><a href="https://www.facebook.com/lupo.laureato"><i class="fa fa-facebook"></i></a></p>
             </div>
         </div>
 
         <div class="row staff">
             <div class="col-md-2 col-md-offset-2">
-                <img class="staff-img" src="images/staff/angelo.jpg" alt="Angelo Impedovo">
+                <img class="staff-img" src="images/staff/lorusso.jpg" alt="Carlo Lorusso">
             </div>
             <div class="col-md-8">
-                <p id="angelo"><i class="fa fa-user"></i> <b>Angelo Impedovo</b></p>
+				<!-- SEZIONE DA CONTROLLARE E CORREGGERE -->
+                <p id="lorusso"><i class="fa fa-user"></i> 	<b>Carlo Lorusso</b></p>
                 <p><i class="fa fa-laptop"></i> PhD Student @ Department of Computer Science - University of Bari "Aldo
                     Moro"</p>
                 <p><i class="fa fa-tags"></i> Organizzatore, Speaker</p>
@@ -169,26 +169,26 @@
 
         <div class="row staff">
             <div class="col-md-2 col-md-offset-2">
-                <img class="staff-img" src="images/staff/nico.jpg" alt="Nicola Logrillo">
+                <img class="staff-img" src="images/staff/milella.jpg" alt="Nicolas Milella">
             </div>
             <div class="col-md-8">
-                <p id="nico"><i class="fa fa-user"></i> <b>Nicola Logrillo</b></p>
+				<!-- SEZIONE DA CONTROLLARE E CORREGGERE -->
+                <p id="miilella"><i class="fa fa-user"></i> <b>Nicolas Milella</b></p>
                 <p><i class="fa fa-laptop"></i> IT Business Intelligence Analyst at Wolters Kluwer, MSc Student @ INF BA
                 </p>
                 <p><i class="fa fa-tags"></i> Speaker</p>
                 <p><i class="fa fa-linux"></i> (K)Ubuntu, CentOS</p>
-                <p><a href="https://it.linkedin.com/pub/nicola-logrillo/7a/ab8/182"><i class="fa fa-linkedin"></i></a>
-                    &nbsp;<a href="https://github.com/colino"><i class="fa fa-github"></i></a></p>
+                <p><a href="https://www.facebook.com/nicolas.milella"><i class="fa fa-facebook"></i></a>
             </div>
         </div>
 
         <div class="row staff">
             <div class="col-md-2 col-md-offset-2">
-                <img class="staff-img" src="http://c3lab.poliba.it/images/thumb/e/ec/Ldc_home.jpg/90px-Ldc_home.jpg"
-                     alt="Luca De Cicco">
+                <img class="staff-img" src="/images/staff/scarano.jpg" alt="Davide Scarano">
             </div>
             <div class="col-md-8">
-                <p id="luca"><i class="fa fa-user"></i> <b>Luca De Cicco</b></p>
+				<!-- SEZIONE DA CONTROLLARE E CORREGGERE -->
+                <p id="scarano"><i class="fa fa-user"></i> <b>Davide Scarano</b></p>
                 <p><i class="fa fa-laptop"></i> Assistant Professor @ Polytechnic University of Bari</p>
                 <p><i class="fa fa-tags"></i> Speaker</p>
                 <p><i class="fa fa-linux"></i> Ubuntu</p>
