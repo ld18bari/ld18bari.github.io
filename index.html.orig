@@ -139,8 +139,7 @@
                     &nbsp;<a href="https://twitter.com/ilpianista_"><i class="fa fa-twitter"></i></a></p>
                 <p><i class="fa fa-laptop"></i> Debian Official Developer, DebianGis Developer</p>
                 <p><i class="fa fa-tags"></i> Speaker</p>
-                <p><i class="fa fa-linux"></i> Arch Linux, Arch Linux ARM</p>
-                <p><i class="fa fa-globe"></i> <a href="https://www.andreascarpino.it/">www.andreascarpino.it</a></p>
+                <p><i class="fa fa-linux"></i> <!-- DISTRO LOVERGINE --></p>
             </div>
         </div>
 
@@ -149,6 +148,7 @@
                 <img class="staff-img" src="images/staff/trisciuzzi.jpg" alt="Carlo Alberto Trisciuzzi">
             </div>
             <div class="col-md-8">
+				<!-- SEZIONE DA CONTROLLARE E CORREGGERE -->
                 <p id="trisciuzzi"><i class="fa fa-user"></i> <b> Carlo Alberto Trisciuzzi </b></p>
 				<!-- Inserire qui sotto i vari contatti -->
                 <p><a href="https://www.facebook.com/lupo.laureato"><i class="fa fa-facebook"></i></a></p>
@@ -166,10 +166,9 @@
 				<!-- SEZIONE DA CONTROLLARE E CORREGGERE -->
                 <p id="lorusso"><i class="fa fa-user"></i> <b> Carlo Lorusso </b></p>
 				<!-- Inserire qui sotto i vari contatti -->
-                <p><i class="fa fa-laptop"></i> PhD Student @ Department of Computer Science - University of Bari "Aldo
-                    Moro"</p>
+                <p><i class="fa fa-laptop"></i> <!-- OCCUPAZIONE LORUSSO --></p>
                 <p><i class="fa fa-tags"></i> Organizzatore, Speaker</p>
-                <p><i class="fa fa-linux"></i> Opensuse</p>
+                <p><i class="fa fa-linux"></i> <!-- DISTRO LORUSSO --></p>
             </div>
         </div>
 
@@ -182,10 +181,9 @@
                 <p id="miilella"><i class="fa fa-user"></i> <b>Nicolas Milella</b></p>
 				<!-- Inserire qui sotto i vari contatti -->
 				<p><a href="https://www.facebook.com/nicolas.milella"><i class="fa fa-facebook"></i></a>
-                <p><i class="fa fa-laptop"></i> IT Business Intelligence Analyst at Wolters Kluwer, MSc Student @ INF BA
-                </p>
-                <p><i class="fa fa-tags"></i> Speaker</p>
-                <p><i class="fa fa-linux"></i> (K)Ubuntu, CentOS</p>
+                <p><i class="fa fa-laptop"></i> <!-- OCCUPAZIONE MILELLA --> </p>
+                <p><i class="fa fa-tags"></i> Organizzazione</p>
+                <p><i class="fa fa-linux"></i> <!-- DISTRO MILELLA --></p>
             </div>
         </div>
 
@@ -197,9 +195,9 @@
 				<!-- SEZIONE DA CONTROLLARE E CORREGGERE -->
                 <p id="scarano"><i class="fa fa-user"></i> <b>Davide Scarano</b></p>
 				<!-- Inserire qui sotto i vari contatti -->
-                <p><i class="fa fa-laptop"></i> Assistant Professor @ Polytechnic University of Bari</p>
-                <p><i class="fa fa-tags"></i> Speaker</p>
-                <p><i class="fa fa-linux"></i> Ubuntu</p>
+                <p><i class="fa fa-laptop"></i> <!-- OCCUPAZIONE SCARANO --> </p>
+                <p><i class="fa fa-tags"></i> Organizzatore </p>
+                <p><i class="fa fa-linux"></i> <!-- DISTRO SCARANO --> </p>
                 </p>
             </div>
         </div>
