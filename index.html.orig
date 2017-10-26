@@ -197,60 +197,13 @@
                 </p>
             </div>
         </div>
-
         <div class="row staff">
             <div class="col-md-2 col-md-offset-2">
-                <img class="staff-img"
-                     src="https://media.licdn.com/media/AAEAAQAAAAAAAAJzAAAAJDUyNWE0YmNiLTE1NjEtNDRjZC1iOGU5LTczMTQ0NzRlYWU4NQ.jpg"
-                     alt="Marcello Barile">
             </div>
             <div class="col-md-8">
-                <p id="marcello"><i class="fa fa-user"></i> <b>Marcello Barile</b></p>
-                <p><i class="fa fa-laptop"></i> Frontend Developer @ Fincons Group</p>
-                <p><i class="fa fa-tags"></i> Speaker</p>
-                <p><i class="fa fa-linux"></i> Ubuntu</p>
-                <p><a href="https://www.linkedin.com/in/marcellobarile"><i class="fa fa-linkedin"></i></a>
-                    &nbsp;<a href="https://github.com/marcellobarile"><i class="fa fa-github"></i></a>
                 </p>
             </div>
         </div>
-
-        <div class="row staff">
-            <div class="col-md-2 col-md-offset-2">
-                <img class="staff-img"
-                     src="https://media.licdn.com/media/AAEAAQAAAAAAAAiDAAAAJGRhNGZkMDYxLWI4MDktNDNkYi04NDU3LTBiNTdlNWFlNmMzNg.jpg"
-                     alt="Andrea Rabbaglietti">
-            </div>
-            <div class="col-md-8">
-                <p id="rabba"><i class="fa fa-user"></i> <b>Andrea Rabbaglietti</b></p>
-                <p><i class="fa fa-laptop"></i> Senior Software Engineer @ Snap.it</p>
-                <p><i class="fa fa-tags"></i> Speaker</p>
-                <p><i class="fa fa-linux"></i> Ubuntu</p>
-                <p><a href="https://www.linkedin.com/in/andrearabbaglietti"><i class="fa fa-linkedin"></i></a>
-                    &nbsp;<a href="https://github.com/silverfix"><i class="fa fa-github"></i></a>
-                </p>
-            </div>
-        </div>
-
-        <div class="row staff">
-            <div class="col-md-2 col-md-offset-2">
-                <img class="staff-img"
-                     src="http://c3lab.poliba.it/images/2/26/Gaetano.jpg"
-                     alt="Gaetano Carlucci">
-            </div>
-            <div class="col-md-8">
-                <p id="gaetano"><i class="fa fa-user"></i> <b>Gaetano Carlucci</b></p>
-                <p><i class="fa fa-laptop"></i> Assistant Professor @ Polytechnic University of Bari</p>
-                <p><i class="fa fa-tags"></i> Speaker</p>
-                <p><i class="fa fa-linux"></i> Ubuntu</p>
-                <p><i class="fa fa-globe"></i> <a href="http://c3lab.poliba.it/index.php?title=GaetanoCarlucci">http://c3lab.poliba.it/index.php?title=GaetanoCarlucci</a>
-                </p>
-
-                <p><a href="https://www.linkedin.com/in/gaetano-carlucci-603912a"><i class="fa fa-linkedin"></i></a>
-                </p>
-            </div>
-        </div>
-
     </div>
 </section>
 <section id="events">
